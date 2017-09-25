@@ -30,6 +30,7 @@
 # 常用网站
 198.35.26.96 zh.wikipedia.org
 192.30.255.112 github.com
+192.30.253.124 live.github.com
 66.71.250.27 greasyfork.org
 
 
@@ -38,7 +39,7 @@
 # 简书（电信）
 182.132.33.83 www.jianshu.com
 183.66.110.58 cdn2.jianshu.io
-
+119.84.99.209 upload-images.jianshu.io
 
 
 # 迅雷相关（电信）
@@ -55,6 +56,8 @@
 61.155.181.81 interface.reg.vip.xunlei.com
 180.97.85.240 bubble.vip.xunlei.com
 61.155.181.241 service.cdn.vip.xunlei.com
+42.123.125.237 download.verify.stat.xunlei.com
+
 
 # jd（电信）
 182.140.232.1 www.jd.com
