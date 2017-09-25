@@ -1,0 +1,79 @@
+# My hosts
+
+# Google相关
+172.217.11.68 www.google.com
+172.217.11.67 www.google.com.sg
+172.217.11.77 accounts.google.com
+172.217.11.174 support.google.com
+172.217.11.174 security.google.com
+172.217.11.78 drive.google.com
+216.58.217.206 clients6.google.com
+172.217.4.99 csi.gstatic.com
+172.217.11.78 photos.google.com
+172.217.11.78 play.google.com
+172.217.11.174 www.youtube.com
+216.58.217.206 ssl.gstatic.com
+
+# OneDrive网页版
+118.123.100.66 www.microsoft.com
+13.107.42.11 outlook.live.com
+204.79.197.213 api.onedrive.com
+157.55.109.224 skyapi.onedrive.live.com
+204.79.197.217 onedrive.live.com
+204.79.197.217 skyweb.skyprod.akadns.net
+204.79.197.217 webedgegeo.skyprod.akadns.net
+
+# Bt sync相关
+54.192.212.94 config.getsync.com
+54.192.212.187 config.resilio.com
+
+# 常用网站
+106.75.17.181 jianshu.com
+198.35.26.96 zh.wikipedia.org
+192.30.255.112 github.com
+66.71.250.27 greasyfork.org
+104.25.31.112 t66y.com
+
+# 迅雷相关
+180.97.157.249 wwwxunlei.com
+180.97.157.250 vip.xunlei.com
+183.60.209.53 xzb.xunlei.com
+183.60.209.40 msg.client.xunlei.com
+121.9.209.235 hub5c.sandai.net
+121.9.209.143 hub5u.sandai.net
+114.80.189.3 hub5pnc.sandai.net
+14.29.92.148 stat.lixian.vip.xunlei.com
+61.155.183.121 api.portal.swjsq.vip.xunlei.com
+180.97.85.104 cache2.vip.xunlei.com
+61.155.181.81 interface.reg.vip.xunlei.com
+180.97.85.240 bubble.vip.xunlei.com
+
+
+# jd
+182.140.232.1 www.jd.com
+182.140.232.1 item.jd.com
+58.83.230.159 jd.com
+106.39.164.149 bean.jd.com
+36.110.181.179 club.jdcom
+36.110.181.147 order.jd.com
+120.52.148.21 quanjd.com
+106.39.167.232 vip.jd.com
+106.39.167.232 huan.jd.com
+106.39.167.232 you.jd.com
+182.140.232.1 jr.jd.com
+211.151.8.178 vip.jr.jd.com
+
+# taobao
+182.140.245.49 www.taobao.com
+182.140.245.52 item.taobao.com
+140.205.230.49 login.taobao.com
+140.205.243.64 www.etao.com
+
+# suning
+219.144.71.163 www.suning.com
+222.211.64.131 sign.suning.com
+183.222.99.115 shop.m.suning.com
+183.222.99.85 product.suning.com
+
+# 滴滴抽奖2017
+117.174.129.81 static.udache.com
