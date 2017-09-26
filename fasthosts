@@ -42,7 +42,10 @@
 66.71.250.27 greasyfork.org
 
 106.11.47.19 www.youku.com
-
+23.42.183.185 pollserver.lastpass.com
+202.102.85.55 www.52pojie.cn
+202.102.85.55 avatar.52pojie.cn
+218.98.112.33 www.zuanke8.com
 
 # 简书（电信）
 182.132.33.83 www.jianshu.com
@@ -86,12 +89,13 @@
 182.140.245.52 item.taobao.com
 140.205.230.49 login.taobao.com
 140.205.243.64 www.etao.com
+140.205.172.65 taojinbi.taobao.com
+
 
 # suning（电信）
 219.144.71.163 www.suning.com
 222.211.64.131 sign.suning.com
-183.222.99.115 shop.m.suning.com
-183.222.99.85 product.suning.com
+83.222.99.85 product.suning.com
 
 # 滴滴抽奖2017（电信）
 117.174.129.81 static.udache.com
