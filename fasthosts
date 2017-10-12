@@ -35,8 +35,11 @@
 125.64.134.225 tlu.dl.delivery.mp.microsoft.com
 
 # Bt sync相关（大陆直连）
+
+52.85.158.221 www.resilio.com
 54.192.212.94 config.getsync.com
 54.192.212.187 config.resilio.com
+52.216.82.162 config.usyncapp.com
 
 # 常用网站
 198.35.26.96 zh.wikipedia.org
