@@ -71,33 +71,3 @@
 42.123.125.237 download.verify.stat.xunlei.com
 123.162.189.132 svr2.support.client.xunlei.com
 
-# jd（电信）
-182.140.232.1 www.jd.com
-182.140.232.1 item.jd.com
-58.83.230.159 jd.com
-106.39.164.149 bean.jd.com
-36.110.181.179 club.jdcom
-36.110.181.147 order.jd.com
-120.52.148.21 quanjd.com
-106.39.167.232 vip.jd.com
-106.39.167.232 huan.jd.com
-106.39.167.232 you.jd.com
-182.140.232.1 jr.jd.com
-211.151.8.178 vip.jr.jd.com
-
-# taobao（电信）
-182.140.245.49 www.taobao.com
-182.140.245.52 item.taobao.com
-140.205.230.49 login.taobao.com
-140.205.243.64 www.etao.com
-140.205.172.65 taojinbi.taobao.com
-0.160.146.241 www.tmall.com
-
-
-# suning（电信）
-219.144.71.163 www.suning.com
-222.211.64.131 sign.suning.com
-83.222.99.85 product.suning.com
-
-# 滴滴抽奖2017（电信）
-117.174.129.81 static.udache.com
