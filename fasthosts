@@ -1,22 +1,3 @@
-# My hosts
-
-# Google相关（不能翻墙）
-172.217.11.68 www.google.com
-172.217.11.67 www.google.com.sg
-172.217.11.77 accounts.google.com
-172.217.11.174 support.google.com
-172.217.11.174 security.google.com
-172.217.11.78 drive.google.com
-216.58.217.206 clients6.google.com
-172.217.11.78 photos.google.com
-172.217.4.174 translate.google.com
-172.217.11.78 maps.google.com
-172.217.11.78 geoauth.google.com
-172.217.11.78 kh.google.com
-172.217.11.78 play.google.com
-172.217.11.78 mw1.google.com
-172.217.11.78 mw2.google.com
-
 # OneDrive网页版（大陆直连）
 118.123.100.66 www.microsoft.com
 13.107.42.11 outlook.live.com
