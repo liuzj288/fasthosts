@@ -13,5 +13,12 @@
 54.192.212.187 config.resilio.com
 52.216.82.162 config.usyncapp.com
 
+# IDM联网检
+127.0.0.1 registeridm.com
+127.0.0.1 www.registeridm.com
+127.0.0.1 www.internetdownloadmanager.com
 
+
+
+# DMM
 202.6.246.9 www.dmm.com
