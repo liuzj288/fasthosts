@@ -13,12 +13,18 @@
 54.192.212.187 config.resilio.com
 52.216.82.162 config.usyncapp.com
 
-# IDM联网检
+# IDM联网验证
+127.0.0.1 tonec.com
+127.0.0.1 www.tonec.com
 127.0.0.1 registeridm.com
 127.0.0.1 www.registeridm.com
+127.0.0.1 secure.registeridm.com
+127.0.0.1 internetdownloadmanager.com
 127.0.0.1 www.internetdownloadmanager.com
-
-
+127.0.0.1 secure.internetdownloadmanager.com
+127.0.0.1 mirror.internetdownloadmanager.com
+127.0.0.1 mirror2.internetdownloadmanager.com
+127.0.0.1 mirror3.internetdownloadmanager.com
 
 # DMM
 202.6.246.9 www.dmm.com
