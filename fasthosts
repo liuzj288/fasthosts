@@ -26,5 +26,9 @@
 127.0.0.1 mirror2.internetdownloadmanager.com
 127.0.0.1 mirror3.internetdownloadmanager.com
 
+# 迅雷
+127.0.0.1    hub5btmain.sandai.net
+127.0.0.1    hub5emu.sandai.net
+
 # DMM
 202.6.246.9 www.dmm.com
