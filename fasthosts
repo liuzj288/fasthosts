@@ -9,8 +9,8 @@
 
 # Bt sync相关（大陆直连）
 2.85.158.221 www.resilio.com
-54.192.212.94 config.getsync.com
-54.192.212.187 config.resilio.com
+54.182.1.133 config.getsync.com
+4.182.1.71 config.resilio.com
 52.216.82.162 config.usyncapp.com
 
 # IDM联网验证
