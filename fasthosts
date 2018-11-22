@@ -26,10 +26,5 @@
 127.0.0.1 mirror2.internetdownloadmanager.com
 127.0.0.1 mirror3.internetdownloadmanager.com
 
-# 迅雷
-127.0.0.1 hub5emu.sandai.net
-127.0.0.1 upgrade.xl9.xunlei.com
-127.0.0.1 hub5btmain.sandai.net 
-
-# DMM
-202.6.246.9 www.dmm.com
+# 直连逗比根据地
+104.16.248.1 doub.io
