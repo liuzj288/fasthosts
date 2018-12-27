@@ -2,6 +2,8 @@
 13.107.42.13 onedrive.live.com
 13.107.42.12 api.onedrive.com
 
+# Github
+192.30.253.113 github.com
 
 # Bt sync相关（大陆直连）
 54.239.216.115 www.resilio.com
