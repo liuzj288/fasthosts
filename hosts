@@ -1,10 +1,10 @@
 # 直连onedrive
-13.107.42.13 onedrive.live.com
-13.107.42.12 api.onedrive.com
-
-# 直连Btsync相关
-54.192.232.168 config.getsync.com
-54.192.232.168 config.resilio.com
+204.79.197.213	api.onedrive.com
+23.76.75.24	api.onedrive.live.com
+131.253.33.217	onedrive.live.com
+131.253.33.217	webedgegeo.skyprod.akadns.net
+131.253.14.230	skyapi.onedrive.live.com
+134.170.104.157	skyweb.skyprod.akadns.net
 
 #国际空间站直播
 199.66.238.212 www.ustream.tv
@@ -19,6 +19,10 @@
 # 直连搬瓦工
 104.20.7.63 bandwagonhost.com
 104.25.219.22 kiwivm.64clouds.com
+
+# 直连Btsync相关
+54.192.232.168 config.getsync.com
+54.192.232.168 config.resilio.com
 
 # 屏蔽IDM联网验证
 127.0.0.1 tonec.com
