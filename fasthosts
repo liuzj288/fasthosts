@@ -2,6 +2,9 @@
 54.192.232.168 config.getsync.com
 54.192.232.168 config.resilio.com
 
+#国际空间站直播
+199.66.238.212 www.ustream.tv
+
 # 直连Github
 192.30.253.112 github.com
 151.101.0.133 raw.githubusercontent.com
