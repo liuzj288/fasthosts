@@ -1,3 +1,7 @@
+# 直连onedrive
+13.107.42.13 onedrive.live.com
+13.107.42.12 api.onedrive.com
+
 # 直连Btsync相关
 54.192.232.168 config.getsync.com
 54.192.232.168 config.resilio.com
